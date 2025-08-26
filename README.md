@@ -1,1 +1,1 @@
-# IT004
+print("Hello, World!")
